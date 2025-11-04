@@ -17,7 +17,7 @@ A simple command-line tool written in Go that extracts plain text from a PDF fil
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/your-username/pdf2json-go.git
+git clone https://github.com/abhijit-without-h/pdf2json-go.git
 cd pdf2json-go
 ```
 
